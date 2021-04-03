@@ -5,5 +5,5 @@ gem "alembic-jekyll-theme", "~> 4.1"
 
 
 group :jekyll_plugins do
-      jekyll-miniaudio
+      gem 'jekyll-miniaudio'
 end
