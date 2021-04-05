@@ -7,6 +7,6 @@ feature_text: |
 
 There isn't much going on here yet, but watch this space
 
-/assets/audio/rhum.mp3?autoplay=1&loop=1&controls=0
+https://raw.githubusercontent.com/romaindortier/alembic-kit/master/assets/audio/rhum.mp3
 
 {% include embed-audio.html src="/assets/audio/rhum.mp3" %}
