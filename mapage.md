@@ -7,9 +7,11 @@ feature_text: |
   ## Hello world
 ---
 
+Héhé ho hé
+
 There isn't much going on here yet, but watch this space
 
-https://s3.eu-west-3.amazonaws.com/app1.assets/instru+1+-+56bpm.mp3
+https://raw.githubusercontent.com/romaindortier/alembic-kit/master/assets/audio/rhum.mp3
 
 {% include embed-audio.html src="/assets/audio/rhum.mp3" %}
 
